@@ -44,7 +44,7 @@ definition(
     name: "Turn On ZoneMinder Camera and Notify",
     namespace: "",
     author: "RobtheEngineer",
-    description: "Start recording of a ZoneMinder camera when an open/close sensor opens.",
+    description: "Start recording of a ZoneMinder camera when an open/close sensor opens or a motion sensor activates.",
     category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png")
