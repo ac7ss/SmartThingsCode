@@ -1,7 +1,7 @@
 /**
  *  Turn On ZoneMinder Camera and Notify
  *
- *	Author: Robert Collins
+ *	Author: RobtheEngineer
  *
  *  Borrowed code from: Intruder? by Matt Blackmore
  *
@@ -43,7 +43,7 @@
 definition(
     name: "Turn On ZoneMinder Camera and Notify",
     namespace: "",
-    author: "Collins",
+    author: "RobtheEngineer",
     description: "Start recording of a ZoneMinder camera when an open/close sensor opens.",
     category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
